@@ -26,3 +26,35 @@ C:\Users\Shahadat\Desktop\Resources\CMDemo\WPFUI\obj\Debug\net7.0-windows\refint
 C:\Users\Shahadat\Desktop\Resources\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.pdb
 C:\Users\Shahadat\Desktop\Resources\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.genruntimeconfig.cache
 C:\Users\Shahadat\Desktop\Resources\CMDemo\WPFUI\obj\Debug\net7.0-windows\ref\WPFUI.dll
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\bin\Debug\net7.0-windows\WPFUI.exe
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\bin\Debug\net7.0-windows\WPFUI.deps.json
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\bin\Debug\net7.0-windows\WPFUI.runtimeconfig.json
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\bin\Debug\net7.0-windows\WPFUI.dll
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\bin\Debug\net7.0-windows\WPFUI.pdb
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\bin\Debug\net7.0-windows\Caliburn.Micro.Platform.Core.dll
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\bin\Debug\net7.0-windows\Caliburn.Micro.Platform.dll
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\bin\Debug\net7.0-windows\Caliburn.Micro.Core.dll
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.csproj.AssemblyReference.cache
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\Views\ShellView.g.cs
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\App.g.cs
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI_MarkupCompile.cache
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI_MarkupCompile.lref
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\App.baml
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\Views\ShellView.baml
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.g.resources
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.AssemblyInfoInputs.cache
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.AssemblyInfo.cs
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.csproj.CoreCompileInputs.cache
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.csproj.CopyComplete
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.dll
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\refint\WPFUI.dll
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.pdb
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\WPFUI.genruntimeconfig.cache
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\ref\WPFUI.dll
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\Views\FirstChildView.g.cs
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\Views\SecondChildView.g.cs
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\Views\FirstChildView.baml
+F:\Skill Development\Git Workshop\CMDemo\WPFUI\obj\Debug\net7.0-windows\Views\SecondChildView.baml

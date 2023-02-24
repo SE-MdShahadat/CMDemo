@@ -9,7 +9,7 @@ using WPFUI.Models;
 
 namespace WPFUI.ViewModels
 {
-    public class ShellViewModel : Screen
+    public class ShellViewModel : Conductor<object>
     {
         private string _firstName = "Shahadat";
         private string _lastName;
@@ -54,16 +54,48 @@ namespace WPFUI.ViewModels
             get { return _people; }
             set { _people = value; }
         }
-        public PersonModel Selectperson
+        public PersonModel SelectedPerson
         {
             get { return _selectedPerson; }
             set
             {
                 _selectedPerson = value;
-                NotifyOfPropertyChange(() => Selectperson);
+                NotifyOfPropertyChange(() => SelectedPerson);
             }
         }
+        public bool CanClearText(string firstName, string lastName)
+        {
+            //return !String.IsNullOrWhiteSpace(firstName) && !String.IsNullOrWhiteSpace(lastName);
+            if (String.IsNullOrWhiteSpace(firstName) && String.IsNullOrWhiteSpace(lastName))
+            {
+                return false;
+            }else return true;
+        }
+        public void ClearText(string firstName, string lastName)
+        {
+            FirstName = "";
+            LastName = "";
+        }
+        public void LoadPageOne()
+        {
+            //ActivateItem(new FirstChildViewModel());
+            //ActivateItem();
+        }
 
+        //private FirstChildViewModel ActivateItem(FirstChildViewModel firstChildViewModel)
+        //{
+        //    return new FirstChildViewModel();
+        //}
 
+        public void LoadPageTwo()
+        {
+            //ActivateItem(new SecondChildViewModel());
+            //ActivateItem();
+        }
+
+        //private SecondChildViewModel ActivateItem(SecondChildViewModel secondChildViewModel)
+        //{
+        //    return new SecondChildViewModel();
+        //}
     }
 }
